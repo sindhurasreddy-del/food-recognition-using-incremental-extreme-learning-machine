@@ -2,13 +2,13 @@
 Food image classification project using Incremental Extreme Learning Machine (I-ELM) with fast training, incremental learning, and scalable performance.
 # Food Recognition Using Incremental Extreme Learning Machine (I-ELM)
 
-## 📌 Project Overview
+##  Project Overview
 This project implements an **image-based food recognition system** using **Incremental Extreme Learning Machine (I-ELM)**.  
 The model efficiently classifies food images while supporting **incremental learning**, allowing new data and classes to be added **without retraining the entire model**.  
 The approach focuses on **fast training, low computational cost, and scalability**, making it suitable for real-time and lightweight machine learning applications.
 
 
-## 🎯 Objectives
+##  Objectives
 - Classify food images accurately using machine learning  
 - Enable **incremental learning** for scalability  
 - Reduce training time compared to traditional neural networks  
@@ -16,7 +16,7 @@ The approach focuses on **fast training, low computational cost, and scalability
 
 
 
-## ⚙️ Methodology
+##  Methodology
 1. **Image Preprocessing**
    - Image resizing and normalization
    - Feature extraction using numerical representations
@@ -33,7 +33,7 @@ The approach focuses on **fast training, low computational cost, and scalability
 
 ---
 
-## 🧠 Key Features
+##  Key Features
 - Image classification using **Incremental Extreme Learning Machine (I-ELM)**
 - Incremental learning without full model retraining
 - Fast training and low computational overhead
